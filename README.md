@@ -184,3 +184,6 @@ Specializing in:
 * Tableau
 * Python Data Analysis
 * Business Intelligence Solutions
+
+
+<img width="1662" height="946" alt="dashboard model" src="https://github.com/user-attachments/assets/7fbb60a6-40de-4212-9de9-8300d6cd90df" />
